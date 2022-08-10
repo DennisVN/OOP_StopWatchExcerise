@@ -1,0 +1,14 @@
+C:\Users\BEAUCOUPDARGENT\source\repos\UdemyStopwatch\UdemyStopwatch\bin\Debug\netcoreapp3.1\UdemyStopwatch.exe
+C:\Users\BEAUCOUPDARGENT\source\repos\UdemyStopwatch\UdemyStopwatch\bin\Debug\netcoreapp3.1\UdemyStopwatch.deps.json
+C:\Users\BEAUCOUPDARGENT\source\repos\UdemyStopwatch\UdemyStopwatch\bin\Debug\netcoreapp3.1\UdemyStopwatch.runtimeconfig.json
+C:\Users\BEAUCOUPDARGENT\source\repos\UdemyStopwatch\UdemyStopwatch\bin\Debug\netcoreapp3.1\UdemyStopwatch.runtimeconfig.dev.json
+C:\Users\BEAUCOUPDARGENT\source\repos\UdemyStopwatch\UdemyStopwatch\bin\Debug\netcoreapp3.1\UdemyStopwatch.dll
+C:\Users\BEAUCOUPDARGENT\source\repos\UdemyStopwatch\UdemyStopwatch\bin\Debug\netcoreapp3.1\UdemyStopwatch.pdb
+C:\Users\BEAUCOUPDARGENT\source\repos\UdemyStopwatch\UdemyStopwatch\obj\Debug\netcoreapp3.1\UdemyStopwatch.csproj.AssemblyReference.cache
+C:\Users\BEAUCOUPDARGENT\source\repos\UdemyStopwatch\UdemyStopwatch\obj\Debug\netcoreapp3.1\UdemyStopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEAUCOUPDARGENT\source\repos\UdemyStopwatch\UdemyStopwatch\obj\Debug\netcoreapp3.1\UdemyStopwatch.AssemblyInfoInputs.cache
+C:\Users\BEAUCOUPDARGENT\source\repos\UdemyStopwatch\UdemyStopwatch\obj\Debug\netcoreapp3.1\UdemyStopwatch.AssemblyInfo.cs
+C:\Users\BEAUCOUPDARGENT\source\repos\UdemyStopwatch\UdemyStopwatch\obj\Debug\netcoreapp3.1\UdemyStopwatch.csproj.CoreCompileInputs.cache
+C:\Users\BEAUCOUPDARGENT\source\repos\UdemyStopwatch\UdemyStopwatch\obj\Debug\netcoreapp3.1\UdemyStopwatch.dll
+C:\Users\BEAUCOUPDARGENT\source\repos\UdemyStopwatch\UdemyStopwatch\obj\Debug\netcoreapp3.1\UdemyStopwatch.pdb
+C:\Users\BEAUCOUPDARGENT\source\repos\UdemyStopwatch\UdemyStopwatch\obj\Debug\netcoreapp3.1\UdemyStopwatch.genruntimeconfig.cache
